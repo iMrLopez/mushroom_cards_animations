@@ -3,4 +3,6 @@
 <p> All these animations were shared by <a href="https://community.home-assistant.io/u/rhysb">rhysb</a> on the home assistant community, i thought of compiling them down on a single gist to give more visibility to this.</p>
 <p> I highly encourage you to look and like the original post <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily-part-1/388590/3240">click here</a></p>
 
-<h1>This repository is being served at the <a href="https://imrlopez.github.io/mushroom_cards_animations/">https://imrlopez.github.io/mushroom_cards_animations/</a> url, for ease of use</h1>
+<h1>This repository is being served at the following url, for ease of use</h1>
+
+<h2><a href="https://imrlopez.github.io/mushroom_cards_animations/">https://imrlopez.github.io/mushroom_cards_animations/</a></h2>
