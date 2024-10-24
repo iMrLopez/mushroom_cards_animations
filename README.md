@@ -3416,20 +3416,6 @@ card_mod:
          rel="noopener nofollow ugc">lovelace-card-mod/README-themes.md at master · thomasloven/lovelace-card-mod · GitHub <span class="badge badge-notification clicks"
             title="6 clicks">6</span></a>
    </p>
-   <p>Updated Posts <img src="https://community.home-assistant.io/images/emoji/twitter/point_down.png?v=10"
-         title=":point_down:"
-         class="emoji"
-         alt=":point_down:"
-         loading="lazy"><br>
-      <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/7717">Part 1</a>, Part 2, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/7723">Part 3</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/7725">Part 4</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/7726">Part 5</a><br>
-      Original Posts by <a class="mention"
-         href="/u/rhysb">@rhysb</a> <img src="https://community.home-assistant.io/images/emoji/twitter/point_down.png?v=10"
-         title=":point_down:"
-         class="emoji"
-         alt=":point_down:"
-         loading="lazy"> please only like his posts.<br>
-      <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/3240">Part 1</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/3256">Part 2</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/3272">Part 3</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/3348">Part 4</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/4043">Part 5</a>
-   </p>
    <h2>
       <a name="more-mushroom-card-icon-animations-1"
          class="anchor"
@@ -5425,20 +5411,6 @@ card_mod:
       }
 </code></pre>
    </details>
-   <p>Updated Posts <img src="https://community.home-assistant.io/images/emoji/twitter/point_down.png?v=10"
-         title=":point_down:"
-         class="emoji"
-         alt=":point_down:"
-         loading="lazy"><br>
-      <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/7717">Part 1</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/7719">Part 2</a>, Part 3, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/7725">Part 4</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/7726">Part 5</a><br>
-      Original Posts by <a class="mention"
-         href="/u/rhysb">@rhysb</a> <img src="https://community.home-assistant.io/images/emoji/twitter/point_down.png?v=10"
-         title=":point_down:"
-         class="emoji"
-         alt=":point_down:"
-         loading="lazy"> please only like his posts.<br>
-      <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/3240">Part 1</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/3256">Part 2</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/3272">Part 3</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/3348">Part 4</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/4043">Part 5</a>
-   </p>
    <h2>
       <a name="even-more-mushroom-card-icon-animations-2"
          class="anchor"
@@ -7133,20 +7105,7 @@ card_mod:
       }
 </code></pre>
    </details>
-   <p>Updated Posts <img src="https://community.home-assistant.io/images/emoji/twitter/point_down.png?v=10"
-         title=":point_down:"
-         class="emoji"
-         alt=":point_down:"
-         loading="lazy"><br>
-      <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/7717">Part 1</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/7719">Part 2</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/7723">Part 3</a>, Part 4, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/7726">Part 5</a><br>
-      Original Posts by <a class="mention"
-         href="/u/rhysb">@rhysb</a> <img src="https://community.home-assistant.io/images/emoji/twitter/point_down.png?v=10"
-         title=":point_down:"
-         class="emoji"
-         alt=":point_down:"
-         loading="lazy"> please only like his posts.<br>
-      <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/3240">Part 1</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/3256">Part 2</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/3272">Part 3</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/3348">Part 4</a>, <a href="https://community.home-assistant.io/t/mushroom-cards-build-a-beautiful-dashboard-easily/388590/4043">Part 5</a>
-   </p>
+
    <h2>
       <a name="mushroom-chip-animations-2"
          class="anchor"
